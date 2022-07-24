@@ -1,6 +1,6 @@
 # bookStore
 
-searchingbar is in progres...
+search bar is in progress...
 
 
 <h1>Demo</h1>
